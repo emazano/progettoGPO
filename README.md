@@ -1,5 +1,5 @@
 # progettoGPO
-# Progetto: Piattaforma per studenti e coinquilini
+# Piattaforma per studenti e coinquilini
 
 ## 1. Descrizione del progetto
 
